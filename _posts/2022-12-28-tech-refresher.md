@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog tech refresher"
-date: 2019-01-20
+title: "tech-refresher"
+date: 2022-12-28
 ---
 
 MY first blog for test and learn
