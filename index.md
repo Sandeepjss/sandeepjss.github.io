@@ -2,4 +2,7 @@
 title: Welcome to tech refresh
 ---
 
-My first blog. hope it works
+Tech refresher is coming soon with some tech refresher...
+
+Please feel free to visit and subscribe my youtube channel for tech demos to refresh tech skills.
+
