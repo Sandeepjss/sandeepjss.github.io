@@ -1,5 +1,5 @@
 ---
-title: Welcome to tech refresh
+title: Welcome to tech refresher blog
 ---
 
 Tech refresher is coming soon with some tech refresher...
